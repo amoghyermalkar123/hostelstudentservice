@@ -1,0 +1,3 @@
+* create an index on student table on the 'email' column (22/3/2021)
+* work on the migration engine (22/3/2021)
+* remove admin functionality from this service (25/3/2021)
